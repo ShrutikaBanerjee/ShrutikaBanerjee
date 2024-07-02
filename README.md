@@ -1,4 +1,4 @@
-<div style="background-image: url('https://images7.alphacoders.com/133/1337527.png'); background-size: cover; background-position: center; padding: 20px;">
+<div style="background-image: url('https://images.alphacoders.com/435/435556.png'); background-size: cover; background-position: center; padding: 20px;">
 
 <h1 align="center" style="color: white;">Hi 👋, I'm ShrutikaBanerjee</h1>
 <h3 align="center" style="color: white;">A passionate JAVA developer</h3>
