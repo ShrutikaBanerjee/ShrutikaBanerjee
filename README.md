@@ -1,4 +1,4 @@
-<div style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fbrettlangdon%2F85942af486eb79118467&psig=AOvVaw2-Y44c3KON6S63JUDCYPmh&ust=1720451246419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCX1byalYcDFQAAAAAdAAAAABAJ'); background-size: cover; background-position: center; padding: 20px; color: white;">
+<div style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fbrettlangdon%2F85942af486eb79118467&psig=AOvVaw2-Y44c3KON6S63JUDCYPmh&ust=1720451246419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCX1byalYcDFQAAAAAdAAAAABAJ.png'); background-size: cover; background-position: center; padding: 20px; color: white;">
 
 <h1 align="center">Hi 👋, I'm ShrutikaBanerjee</h1>
 <h3 align="center">A passionate JAVA developer</h3>
