@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning <strong>JAVA SQL AND DSA</strong>
 
-- 💬 Ask me about <strong>JAVA SQL AND DSA</strong>
+- 💬 Ask me about <strong>JAVA SQL  PYTHON AND DSA</strong>
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1DREGmX49oR92onw9mhX_pYbIOsd60U0vTLoQZJlnXqI/edit#heading=h.5x0d5h95i329)
 
